@@ -1,0 +1,19 @@
+Week 10 Meeting Notes - 11/2/21
+
+Calendar:
+	- Can use embedded system shown by Cory
+	- Google Calendar for developers
+	- Quick start (JavaScript)
+	- Have to do a full sync
+	- Use a library to embed the user calendar
+
+Database:
+	- CLI install - docker container	
+
+Milestone 5:
+	- Due Monday (11/8)
+	- Should have everything integrated
+	- Writing a test plan
+	- Figure out what we want to do for integration testing
+		- Maybe have some unit testing
+

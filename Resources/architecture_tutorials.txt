@@ -1,0 +1,23 @@
+- I've personally never used Angular or SQL, which are going to be used for our FrontEnd and BackEnd architecture, respectively
+- These basic tutorials should hopefully shed some light on the process of both Angular and SQL
+
+Angular Tutorials:
+	1. https://www.youtube.com/watch?v=iZ1mlcCkY8A
+	2. https://www.youtube.com/watch?v=k5E2AVpwsko
+- Angular is being used for our front end architecture
+	- Mostly based using HTML and TypeScript (can use JavaScript though)
+	- Typescript: varies from Javasript
+		- Has interface while JavsScript does not have an interface
+	- Launch the app through boostrapping
+
+SQL Tutorials:
+	1. https://www.youtube.com/watch?v=9Pzj7Aj25lw
+- SQL is being used for our BackEnd architecture
+	- Accepts client requests and processes the date, responds to the request
+		- Would be good for Feed the Pets, accepts users request and reponds with an updated feeding schedule, etc.
+	- GUI and command based
+	- SQL server creates and maintains databases, perfect multiple users maintaining a schedule
+
+
+
+

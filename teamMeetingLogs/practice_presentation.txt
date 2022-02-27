@@ -1,0 +1,8 @@
+11/15/2021 Meeting Notes
+
+Google Calendar API
+- Set up a firebase
+- Might need to use a desktop app instead
+- "Create Desktop application credentials"
+- Office Hours Tuesday 8 am - 10 am
+- https://developers.google.com/calendar/api/quickstart/js
